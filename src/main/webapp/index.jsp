@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Cool! you did it!</h1>
-<img src="download.jpeg">
+<img src="lion.jpeg">
 
 <h2>Hi, All From now onwords you need to work more stay focused & work hard/</h2>
 
